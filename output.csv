@@ -1,0 +1,25 @@
+departure_time,arrival_time,airline,duration,stops,price(2019-12-26---22:42)
+1:45am,6:35am,EVA Airways,3h 50m,(Nonstop),$423
+8:35am,1:15pm,China Airlines,3h 40m,(Nonstop),$485
+2:15am,1:30pm,China Southern Airlines,10h 15m,(1 stop),$495
+7:10am,11:50am,EVA Airways,3h 40m,(Nonstop),$496
+8:25am,1:05pm,EVA Airways,3h 40m,(Nonstop),$496
+3:35am,11:15am,Hong Kong Airlines,6h 40m,(1 stop),$548
+7:10am,11:50am,Thai Airways International,3h 40m,(Nonstop),$624
+8:25am,1:05pm,Thai Airways International,3h 40m,(Nonstop),$624
+3:45am,8:30am,Hahn Air Systems,3h 45m,(Nonstop),$644
+2:10am,11:20am,Air China,8h 10m,(1 stop),$657
+3:45am,8:30am,NokScoot,3h 45m,(Nonstop),$695
+3:15am,1:30pm,Multiple Airlines,9h 15m,(1 stop),$749
+3:35am,12:05pm,Multiple Airlines,7h 30m,(1 stop),$773
+2:15am,1:30pm,Multiple Airlines,10h 15m,(1 stop),$774
+3:15am,1:30pm,Multiple Airlines,9h 15m,(1 stop),$844
+8:35am,1:15pm,Bangkok Airways,3h 40m,(Nonstop),"$1,055"
+1:35am,1:25pm,Korean Air,10h 50m,(1 stop),"$1,107"
+2:30am,11:05am,Multiple Airlines,7h 35m,(1 stop),"$1,187"
+1:00am,11:30am,Asiana Airlines,9h 30m,(1 stop),"$1,206"
+2:30am,1:10pm,Multiple Airlines,9h 40m,(1 stop),"$1,276"
+2:30am,1:10pm,Multiple Airlines,9h 40m,(1 stop),"$1,278"
+2:30am,2:15pm,China Eastern Airlines,10h 45m,(1 stop),"$1,498"
+2:30am,2:15pm,Multiple Airlines,10h 45m,(1 stop),"$1,606"
+1:45am,6:35am,Thai Airways International,3h 50m,(Nonstop),"$2,087"
